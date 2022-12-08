@@ -8,16 +8,24 @@ h1 {
 
 div.top {
   background-color : #E4f9f5;
+  width : 200px;
+  position : relative;
 }
 
 div.middle {
   width : 200px;
   height : 200px;
   background-color : grey;
+  position : relative;
+  left : 200px;
+  Bottom : 200px;
 }
 
 div.bottom {
   width : 200px;
   height : 200px;
   background-color : red;  
+  position : relative;
+  left : 400px;
+  Bottom : 400px;  
 }
