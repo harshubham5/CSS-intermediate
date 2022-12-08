@@ -6,6 +6,17 @@ h1 {
 }
 
 
-div {
+.top-container {
   background-color : #E4f9f5;
+}
+
+.middle-container{
+  size : 200px 200px; 
+    Background-color : blue;
+}
+
+
+.bottom-container{
+  size : 200px 200px; 
+  Background-color : red;  
 }
