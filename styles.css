@@ -11,13 +11,13 @@ div.top {
 }
 
 div.middle {
+  width : 200px;
   hight : 200px;
-  width : 200px; 
   Background-color : blue;
 }
 
 div.bottom {
-  hight : 200px;
   width : 200px;
+  hight : 200px;
   Background-color : red;  
 }
